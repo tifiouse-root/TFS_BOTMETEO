@@ -1,0 +1,5 @@
+{
+    "token": "REMPLACE_PAR_TON_TOKEN_DE_BOT_DISCORD", 
+    "ClientIDPourSlashCommandes": "REMPLACE_PAR_TON_ID_DE_TON_BOT", 
+    "weatherAPIKey": "REMPLACE_PAR_TON_API_KEY" 
+}
